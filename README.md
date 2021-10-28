@@ -1,2 +1,2 @@
 # 3rd-Sem-OOPS-Lab-Programs
-These are java programs which were included in our OOPS lab
+These are java programs that were included in our OOPS lab
